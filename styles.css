@@ -1,19 +1,22 @@
-.font {
+body {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     text-align: center;
-}
-.white {
     color: white;
+}
+a {
+    color: rgb(255, 255, 255);
 }
 #lasagna {
     background-color: rgb(223, 104, 7);
 }
 #pastor {
     background-color: rgb(119, 26, 26);
+    margin-top: 10px;
 }
 #ramen {
     background-color: rgb(73, 141, 9);
+    margin-top: 10px;
 }
 .font.lasagna {
     font-size: large;
