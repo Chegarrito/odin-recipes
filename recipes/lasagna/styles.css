@@ -1,0 +1,39 @@
+.font.lasagna {
+    font-size: large;
+    background-color: rgb(41, 41, 41);
+    color: azure;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    margin: 30px;
+    text-align: center;
+}
+h5 {
+    font-style: italic;
+}
+img {
+    float: right;
+}
+.description {
+    
+    margin: 10px 10cm;
+}
+.header {
+    text-decoration: underline;
+}
+.articles {
+    background-color: rgb(179, 106, 23);
+    border: solid 1px white;
+    margin-right: 400px;
+    margin-right: 18cm;
+    padding: 10px 30px;
+}
+.steps {
+    margin: 10px;
+}
+.gif {
+    margin: 0 auto;
+    text-align: center;
+}
