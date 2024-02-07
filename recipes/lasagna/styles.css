@@ -37,3 +37,11 @@ img {
     margin: 0 auto;
     text-align: center;
 }
+.footer {
+    margin: 15px 10cm;
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid white;
+    padding: 10px;
+    background-color: darkslateblue;
+}
