@@ -1,0 +1,49 @@
+body {
+    font-size: large;
+    background-color: rgb(41, 41, 41);
+    color: azure;
+    text-align: center;
+}
+h3 {
+    text-decoration: underline;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin: 15px 0;
+}
+strong {
+    text-decoration: underline;
+    }
+.description {
+    margin: 15px 15cm;
+}
+.conclusion {
+    margin: 50px 0;
+    background-color:rgb(9, 75, 9);
+    border: 2px solid black;
+}
+.articles {
+    list-style-type: none;
+    border: solid 2px black;
+    margin: 30px 18cm;
+    background-color: rgb(70, 29, 0);
+}
+.steps{
+    list-style-position: inside;
+    
+}
+.components {
+    list-style-type: none;
+}
+.farewell {
+    font-size: 20px;
+    margin: 10px 16cm;
+    border: solid black 2px;
+    background-color: azure;
+    color: black;
+}
+#japanese {
+    font-size: 40px;
+}
