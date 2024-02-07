@@ -1,0 +1,50 @@
+body {
+    font-size: large;
+    background-color: rgb(56, 18, 18);
+    color: azure;
+    text-align: center;
+}
+img {
+    float: right;
+    width: 300px;
+    margin-right: 13cm;
+    margin-top: 50px;
+}
+.introduction {
+    margin: 15px 10cm;
+}
+.header {
+    text-decoration: underline;
+    margin-top: 50px;
+}
+.articles {
+    border: solid white 2px;
+    padding: 5px 10px 5px 40px;
+    margin: 5px 25cm 5px 10cm;
+    text-align: left;
+    background-color: brown;
+}
+h4 {
+    margin-bottom: 5px;
+}
+.steps {
+    margin: 15px 10cm;
+    text-align: left;
+
+}
+li {
+    margin: 5px auto;
+}
+.list-steps {
+    margin: 10px auto;
+}
+.farewell {
+    font-size: 50px;
+    text-align: center;
+}
+.giphy-embed {
+    
+    width: 480px;
+    height: 480px;
+    
+}
