@@ -41,6 +41,11 @@ li {
 .farewell {
     font-size: 50px;
     text-align: center;
+    border: solid 5px green;
+    background-color: white;
+    color: red;
+    margin: 2cm 18cm;
+    padding: 5px;
 }
 .giphy-embed {
     
