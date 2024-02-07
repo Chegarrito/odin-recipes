@@ -32,6 +32,7 @@ strong {
 }
 .steps{
     list-style-position: inside;
+    margin: 10px 13cm;
     
 }
 .components {
